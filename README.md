@@ -39,6 +39,8 @@ RC PHASE SHIFT OSCILLATOR
 <img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
 
 ## DESIGN
+<img width="516" height="653" alt="image" src="https://github.com/user-attachments/assets/6e49f234-56f0-46e7-b22a-9d7ceb3dc081" />
+
 
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
@@ -58,15 +60,10 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
+<img width="553" height="358" alt="image" src="https://github.com/user-attachments/assets/7e90a4cb-a8b3-437f-8070-85c72cfdf7b6" />
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="537" height="322" alt="image" src="https://github.com/user-attachments/assets/b12b6b01-60c3-42e0-9c4b-948a8e663b38" />
 
 
 ---
@@ -101,6 +98,9 @@ WIEN BRIDGE OSCILLATOR
 
 ## DESIGN
 
+<img width="501" height="740" alt="image" src="https://github.com/user-attachments/assets/588c1c75-c478-4e82-b11f-5737ef1b888c" />
+
+
 ## WIEN BRIDGE OSCILLATOR
 Select frequency f0 = 1KHz
 fo = 1/2πRC
@@ -113,6 +113,7 @@ R=1/2πfC
 Assume R1 = 10R & find Rf from Rf = 2R1
 Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
+
 ---
 
 ## PROCEDURE
@@ -125,16 +126,13 @@ Rf = 15K *2=30KΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+<img width="582" height="314" alt="image" src="https://github.com/user-attachments/assets/1ba94c2f-36c4-4809-800d-b84f99fad0c7" />
+
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="538" height="371" alt="image" src="https://github.com/user-attachments/assets/eeadabf1-51c8-4e90-b3d5-17aa72e07e17" />
 
 ---
 ## RESULT:
