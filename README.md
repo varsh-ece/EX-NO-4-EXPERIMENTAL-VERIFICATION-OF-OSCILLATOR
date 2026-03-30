@@ -39,6 +39,7 @@ RC PHASE SHIFT OSCILLATOR
 <img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
 
 ## DESIGN
+<img width="547" height="666" alt="image" src="https://github.com/user-attachments/assets/7bff4531-7edb-4323-8d01-52b24886dd60" />
 
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
@@ -58,18 +59,15 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+
+<img width="557" height="338" alt="image" src="https://github.com/user-attachments/assets/a0a9295b-6565-46e5-80ad-715b0b916ff7" />
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 
----
+--<img width="519" height="295" alt="image" src="https://github.com/user-attachments/assets/f8ee0321-568c-40c7-bd0d-d091667fdd55" />
+-
 ## THEORY
  ##WIEN BRIDGE
 A bridge circuit with two components connected in series and parallel combination is used to archived the required of phase shift of 0o. When the bridge is balanced the phase shift of 0o is achieved and the feedback signal is connected to the positive terminal; of Op-amp. So the Op-amp is acting as a non-inverting amplifier and the feedback network do not provide any phase shift.
@@ -100,6 +98,7 @@ WIEN BRIDGE OSCILLATOR
 ---
 
 ## DESIGN
+<img width="501" height="773" alt="image" src="https://github.com/user-attachments/assets/9acfc153-f282-4758-8e35-c2771e313610" />
 
 ## WIEN BRIDGE OSCILLATOR
 Select frequency f0 = 1KHz
@@ -125,18 +124,18 @@ Rf = 15K *2=30KΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+<img width="560" height="377" alt="image" src="https://github.com/user-attachments/assets/7dcbea7c-f71f-4528-844c-f1d64ec5625e" />
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="543" height="382" alt="image" src="https://github.com/user-attachments/assets/091afd44-abf3-47aa-8638-5d3c7878b782" />
+
 
 
 ---
 ## RESULT:
 
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
+
+
+
